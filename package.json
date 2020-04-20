@@ -118,7 +118,6 @@
     "@fullcalendar/timegrid": "^4.4.0",
     "apexcharts": "^3.18.1",
     "autosize": "^4.0.2",
-    "bootstrap": "twbs/bootstrap#4fc701f",
     "countup.js": "^2.0.4",
     "daterangepicker": "^3.0.5",
     "flatpickr": "^4.6.3",
